@@ -16,6 +16,8 @@ Open up your developer console and then run each of these samples:
 
 [Two web workers](http://andygup.github.io/earthquake-heatmap-layer/two_worker.html)
 
+[more web workers](http://andygup.github.io/earthquake-heatmap-layer/eight_worker.html)
+
 ## Example Usage
 
 For a fully working sample see the index.html file in this repo. The basic pattern looks like this:
