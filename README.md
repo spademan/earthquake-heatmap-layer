@@ -18,6 +18,8 @@ Open up your developer console and then run each of these samples:
 
 [more web workers](http://spademan.github.io/earthquake-heatmap-layer/eight_worker.html)
 
+[20 web workers](http://spademan.github.io/earthquake-heatmap-layer/20_worker.html)
+
 ## Example Usage
 
 For a fully working sample see the index.html file in this repo. The basic pattern looks like this:
