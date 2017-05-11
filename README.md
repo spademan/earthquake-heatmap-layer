@@ -10,13 +10,13 @@ It's built using the ArcGIS API for JavaScript and contains a custom feature lay
 
 Open up your developer console and then run each of these samples:
 
-[No web workers - all on main thread](http://andygup.github.io/earthquake-heatmap-layer/no_worker.html)
+[No web workers - all on main thread](http://spademan.github.io/earthquake-heatmap-layer/no_worker.html)
 
-[One web worker](http://andygup.github.io/earthquake-heatmap-layer/one_worker.html)
+[One web worker](http://spademan.github.io/earthquake-heatmap-layer/one_worker.html)
 
-[Two web workers](http://andygup.github.io/earthquake-heatmap-layer/two_worker.html)
+[Two web workers](http://spademan.github.io/earthquake-heatmap-layer/two_worker.html)
 
-[more web workers](http://andygup.github.io/earthquake-heatmap-layer/eight_worker.html)
+[more web workers](http://spademan.github.io/earthquake-heatmap-layer/eight_worker.html)
 
 ## Example Usage
 
