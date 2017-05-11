@@ -16,7 +16,9 @@ Open up your developer console and then run each of these samples:
 
 [Two web workers](http://spademan.github.io/earthquake-heatmap-layer/two_worker.html)
 
-[more web workers](http://spademan.github.io/earthquake-heatmap-layer/eight_worker.html)
+[Eight web workers](http://spademan.github.io/earthquake-heatmap-layer/eight_worker.html)
+
+[20 web workers](http://spademan.github.io/earthquake-heatmap-layer/20_worker.html)
 
 ## Example Usage
 
